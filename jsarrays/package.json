@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://webdev408.github.io/shopping-api/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
